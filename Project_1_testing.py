@@ -1,4 +1,5 @@
 print ("Hello World -- Testing")
-print("my name is Lorenzo")
+print("my name is Lorenzo!!")
 
-print("We understand")
+student= 'Lorenzo'
+Print("student_name:"f'{student}')
